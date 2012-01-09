@@ -1,0 +1,7 @@
+F:\Game Station 1.2\Game Station 1.1\Game Station\bin\x64\Release\Game Station.exe
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x64\Release\ResolveAssemblyReference.cache
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x64\Release\WindowsApplication1.Form1.resources
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x64\Release\WindowsApplication1.Resources.resources
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x64\Release\GenerateResource.read.1.tlog
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x64\Release\GenerateResource.write.1.tlog
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x64\Release\Game Station.exe

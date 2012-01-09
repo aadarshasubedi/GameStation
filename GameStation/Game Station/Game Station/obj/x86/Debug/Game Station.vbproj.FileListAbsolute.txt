@@ -1,0 +1,77 @@
+F:\Game Station\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Station\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Game Station\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Game Station\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Game Station\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Game Station\Game Station\bin\Debug\Game Station.exe
+F:\Game Station\Game Station\bin\Debug\Game Station.pdb
+F:\Game Station\Game Station\bin\Debug\Game Station.xml
+F:\Game Station\Game Station\obj\x86\Debug\Game Station.exe
+F:\Game Station\Game Station\obj\x86\Debug\Game Station.xml
+F:\Game Station\Game Station\obj\x86\Debug\Game Station.pdb
+N:\Game Station\Game Station\obj\x86\Debug\Game Station.exe
+N:\Game Station\Game Station\obj\x86\Debug\Game Station.xml
+N:\Game Station\Game Station\obj\x86\Debug\Game Station.pdb
+N:\Game Station\Game Station\bin\Debug\Game Station.exe
+N:\Game Station\Game Station\bin\Debug\Game Station.pdb
+N:\Game Station\Game Station\bin\Debug\Game Station.xml
+N:\Game Station\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Game Station\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+N:\Game Station\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+N:\Game Station\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Game Station\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Desktop\Game Station\Game Station\bin\Debug\Game Station.exe
+C:\Users\Owner\Desktop\Game Station\Game Station\bin\Debug\Game Station.pdb
+C:\Users\Owner\Desktop\Game Station\Game Station\bin\Debug\Game Station.xml
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\Game Station.exe
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\Game Station.xml
+C:\Users\Owner\Desktop\Game Station\Game Station\obj\x86\Debug\Game Station.pdb
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\bin\Debug\Game Station.exe
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\bin\Debug\Game Station.pdb
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\bin\Debug\Game Station.xml
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.exe
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.xml
+C:\Users\Owner\Desktop\Game Station\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.pdb
+N:\Game Station 1.1\Game Station 1.1\Game Station\bin\Debug\Game Station.exe
+N:\Game Station 1.1\Game Station 1.1\Game Station\bin\Debug\Game Station.pdb
+N:\Game Station 1.1\Game Station 1.1\Game Station\bin\Debug\Game Station.xml
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.exe
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.xml
+N:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.pdb
+F:\Game Station 1.1\Game Station 1.1\Game Station\bin\Debug\Game Station.exe
+F:\Game Station 1.1\Game Station 1.1\Game Station\bin\Debug\Game Station.pdb
+F:\Game Station 1.1\Game Station 1.1\Game Station\bin\Debug\Game Station.xml
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.exe
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.xml
+F:\Game Station 1.1\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.pdb
+F:\Game Station 1.2\Game Station 1.1\Game Station\bin\Debug\Game Station.exe
+F:\Game Station 1.2\Game Station 1.1\Game Station\bin\Debug\Game Station.pdb
+F:\Game Station 1.2\Game Station 1.1\Game Station\bin\Debug\Game Station.xml
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.exe
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.xml
+F:\Game Station 1.2\Game Station 1.1\Game Station\obj\x86\Debug\Game Station.pdb

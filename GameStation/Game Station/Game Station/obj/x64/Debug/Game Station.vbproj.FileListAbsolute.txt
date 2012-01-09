@@ -1,0 +1,43 @@
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\WindowsApplication1.Form1.resources
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.exe.manifest
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.application
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.exe
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.pdb
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station.exe.manifest
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station.application
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station.exe
+C:\Users\Houseman\Desktop\Game Station 1.3\Game Station.pdb
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.exe
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.pdb
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\WindowsApplication1.Form1.resources
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.exe.manifest
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.application
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station.exe.manifest
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station.application
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station.exe
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Game Station.pdb
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Builds\Game Station.exe.manifest
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Builds\Game Station.application
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Builds\Game Station.exe
+C:\Users\Houseman\Desktop\Games\Game Station 1.3\Builds\Game Station.pdb
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.exe
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.pdb
+C:\share\Game Station 1.3\Builds\Game Station.exe.manifest
+C:\share\Game Station 1.3\Builds\Game Station.application
+C:\share\Game Station 1.3\Builds\Game Station.exe
+C:\share\Game Station 1.3\Builds\Game Station.pdb
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\WindowsApplication1.Form1.resources
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\WindowsApplication1.Resources.resources
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.exe.manifest
+C:\share\Game Station 1.3\Game Station 1.1\Game Station\obj\x64\Debug\Game Station.application

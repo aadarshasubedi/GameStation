@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Game Station", "Game Station\Game Station.vbproj", "{B08898B1-F2AD-4B08-8A6C-6A181400A095}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GameStation", "Setup1\Setup1.vdproj", "{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Debug|x64.ActiveCfg = Debug|x64
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Debug|x64.Build.0 = Debug|x64
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Debug|x86.ActiveCfg = Release|x86
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Debug|x86.Build.0 = Release|x86
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Release|x64.ActiveCfg = Release|x64
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Release|x64.Build.0 = Release|x64
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Release|x86.ActiveCfg = Release|x86
+		{B08898B1-F2AD-4B08-8A6C-6A181400A095}.Release|x86.Build.0 = Release|x86
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Debug|x64.ActiveCfg = Debug
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Debug|x64.Build.0 = Debug
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Debug|x86.ActiveCfg = Release
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Debug|x86.Build.0 = Release
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Release|x64.ActiveCfg = Release
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Release|x64.Build.0 = Release
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Release|x86.ActiveCfg = Release
+		{C8008DB6-C3F7-46D8-BC89-6BE309DDA3B8}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
